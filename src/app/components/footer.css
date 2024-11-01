@@ -1,17 +1,16 @@
 .wrapper {
-  display: flex;           /* Use Flexbox for layout */
-  flex-direction: column;  /* Stack elements vertically */
-  height: 100vh;          /* Full height of the viewport */
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
 }
 
 .content {
-  flex: 1;                /* Allow content area to grow */
-}
+  flex: 1;}Z
 
 .footer {
-  background-color: #333; /* Dark background color */
-  color: white;           /* White text color */
-  text-align: center;     /* Center text */
-  padding: 20px 0;       /* Vertical padding */
-  width: 100%;            /* Full width */
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  width: 100%;
 }
